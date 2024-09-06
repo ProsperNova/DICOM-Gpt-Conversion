@@ -47,8 +47,11 @@ This installs the following libraries for your python environment, and which the
 </ul>
 </li>
 </ol>
+
 ## Using ```dicom-gpt-conversion.py```
+
 ### Converting DICOM files
+
 <ol>
 <li>Extract the DICOM ZIP file, and find the relevant directory (```/dicom``` usually)</li>
 <li>Create a destination directory (i.e. ```~/Documents/dicom-for-gpt```)</li>
@@ -59,7 +62,9 @@ This installs the following libraries for your python environment, and which the
 `Help me identify lesions associated with [disease] and help me identify potential deficits`
 `Given the specific deficits you noted, suggest activities that could help recover lost functionality`
 `What treatment methods are thought to be most successful given my MRI history?`
+
 ## Relevant Conditons
+
 Here's a comprehensive list of conditions where the DICOM GPT Conversion tool could be helpful, including multiple sclerosis and other related and unrelated neurological and medical conditions.
 <p>This format is designed to be search-friendly and inclusive of a wide range of potential users:</p>
 ### Conditions Potentially Benefiting from DICOM GPT Conversion for MRI Lesion Analysis:
