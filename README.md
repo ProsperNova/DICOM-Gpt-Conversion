@@ -113,7 +113,7 @@ Here's a comprehensive list of conditions where the DICOM GPT Conversion tool co
 <li><strong>Hydrocephalus</strong>
 <p><strong>Description:</strong> A condition where excess cerebrospinal fluid builds up in the brain, causing pressure and potentially leading to brain damage.</p>
 <p><strong>How It Helps:</strong> Helps monitor ventricles and fluid accumulation, crucial for managing shunt placements and other treatments.</p></li>
-<h4><strong>Chiari Malformation</strong>
+<li><strong>Chiari Malformation</strong>
 <p><strong>Description:</strong> A structural defect in the cerebellum, causing part of it to extend into the spinal canal.</p>
 <p><strong>How It Helps:</strong> Identifies the extent of the malformation, helping plan surgeries or other interventions.</p>
 </li>
