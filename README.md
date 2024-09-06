@@ -167,7 +167,7 @@ Here's a comprehensive list of conditions where the DICOM GPT Conversion tool co
 Thus far, our testing has been validated by patient-reported deficits which are 1.) not reported to the AI,  but 2.) are confirmed by the AI, based only on interpretation of MRI data from DICOM-Gpt-conversion-generated files.
 
 ## For Clinicians
-ProsperNova is a 501(c)(3) non-profit and is releasing this script under GPL 3.0, meaning it's free to redistribute with accreditation given to the original source code. Please note: while this tool is indended to help medical practioners, is is still an early work, and there is much work to be done. If you'd like to pitch in, whether by helping us conduct a clinical trial, or by giving the software a try on your patients, we'd love to hear all about it's accuracy or pitfalls.
+ProsperNova is a 501(c)(3) non-profit and is releasing this script under MIT license, meaning it's free to redistribute with accreditation given to the original source code. Please note: while this tool is indended to help medical practioners and patients, is is still an early work, and there is much work to be done. If you'd like to pitch in, whether by helping us conduct a clinical trial, or by giving the software a try on your patients, we'd love to hear all about it's accuracy or pitfalls.
 
 ## Contibutions
 
