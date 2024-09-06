@@ -67,7 +67,9 @@ This installs the following libraries for your python environment, and which the
 
 Here's a comprehensive list of conditions where the DICOM GPT Conversion tool could be helpful, including multiple sclerosis and other related and unrelated neurological and medical conditions.
 <p>This format is designed to be search-friendly and inclusive of a wide range of potential users:</p>
+
 ### Conditions Potentially Benefiting from DICOM GPT Conversion for MRI Lesion Analysis:
+
 <ol>
 <li><strong>Multiple Sclerosis</strong> (<i>MS</i>), including Relapsing-Remitting (<i>RRMS</i>), somewhat successful in Secondary Progressive (<i>SPMS</i>), would be somewhat successful in Primary Progressive (<i>PPMS</i>) with modification to detect old or non-enhancing lesions.
 <p><strong>Description:</strong> An autoimmune disease that affects the central nervous system, causing lesions in the brain and spinal cord.</p>
